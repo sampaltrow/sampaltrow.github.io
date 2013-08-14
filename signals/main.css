@@ -120,7 +120,7 @@ div #title{
 
 }
 
-div #boxes a{
+div #box-container a{
 	width: 120px;
 	height: 180px;
 	background:linear-gradient(white, #efefef);
@@ -132,7 +132,7 @@ div #boxes a{
 	margin-bottom: 20px;
 }
 
-div #boxes a{
+div #box-container a{
 	text-decoration: none;
 }
 
@@ -194,6 +194,10 @@ h6 {
 
 #popular {
 	padding: 0px 20px 0px 20px;
+}
+
+.arrow {
+	
 }
 
 
