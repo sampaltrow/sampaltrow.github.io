@@ -2,9 +2,9 @@
 
 $(document).ready(function() {
 	 $(".product-bc").on("mouseenter", function() {
-	 $(this).after("<img src=​"/​images/​arrow-left.png" width=​"69" height=​"69" class=​"arrow">​");
+	 $("#firstarrow").show();
 	  $(".product-bc").on("mouseleave", function() {
-	 $(this).remove("<img src=​"/​images/​arrow-left.png" width=​"69" height=​"69" class=​"arrow">​");	
+	  $("#firstarrow").hide();	
 	});
 });
 

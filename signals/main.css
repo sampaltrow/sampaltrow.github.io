@@ -196,8 +196,7 @@ h6 {
 	padding: 0px 20px 0px 20px;
 }
 
-.arrow {
-	
+#firstarrow {
+	display: none;
 }
-
 
