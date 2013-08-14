@@ -3,6 +3,7 @@
 $(document).ready(function() {
 	 $(".product-bc").on("mouseenter", function() {
 	 $("#firstarrow").show();
+	});
 	  $(".product-bc").on("mouseleave", function() {
 	  $("#firstarrow").hide();	
 	});
