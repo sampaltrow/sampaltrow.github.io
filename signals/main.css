@@ -134,6 +134,7 @@ div #box-container a{
 
 div #box-container a{
 	text-decoration: none;
+	display: inline-block;
 }
 
 h3 {
